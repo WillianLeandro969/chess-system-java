@@ -3,6 +3,7 @@ package chass;
 import BoardGame.Board;
 
 public class ChassMatch {
+	
 	private Board board;
 	
 	public ChassMatch() {
